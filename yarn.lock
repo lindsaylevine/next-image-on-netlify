@@ -2057,9 +2057,9 @@
   dependencies:
     "is-promise" "^4.0.0"
 
-"@netlify/plugin-nextjs@github:netlify/netlify-plugin-nextjs#unstable-next-img-perf":
-  "resolved" "git+ssh://git@github.com/netlify/netlify-plugin-nextjs.git#f51559995b131e4611f908223423e954565d0c9f"
-  "version" "3.0.3-next-img-perf@1"
+"@netlify/plugin-nextjs@github:netlify/netlify-plugin-nextjs#next-img-perf":
+  "resolved" "git+ssh://git@github.com/netlify/netlify-plugin-nextjs.git#c49fa53c6cd6fdaf684f659345b3d0ac3d480ed5"
+  "version" "3.0.3"
   dependencies:
     "@netlify/functions" "^0.3.1"
     "@sls-next/lambda-at-edge" "^1.5.2"

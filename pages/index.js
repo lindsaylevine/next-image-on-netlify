@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Next Image on Netlify</h1>
+        <h1 className={styles.title}>Next Image on Netlify!</h1>
 
         <p>
           <Image
