@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "github:netlify/netlify-plugin-nextjs#next-img-perf",
+    "@netlify/plugin-nextjs": "github:netlify/netlify-plugin-nextjs#apr-13-odb-dpr",
     "next": "^10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
