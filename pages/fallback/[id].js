@@ -13,6 +13,7 @@ const Show = ({ show }) => {
   return (
     <>
         <h1>test fallback</h1>
+        <p>Show: {show.id} {show.name}</p>
     </>
   );
 };
