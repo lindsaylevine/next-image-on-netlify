@@ -18,6 +18,8 @@ export default function Home() {
             src="/jason-rogers.jpg"
             alt="Jason in the Mr. Rogers “I’m not very good at it” meme."
             layout="responsive"
+            quality="75"
+            width="1394"
           />
         </p>
       </main>
