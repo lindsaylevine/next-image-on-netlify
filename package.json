@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "github:netlify/netlify-plugin-nextjs#apr-13-odb-dpr",
+    "@netlify/plugin-nextjs": "^3.1.0-experimental-odb.1",
     "next": "^10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
