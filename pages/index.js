@@ -19,7 +19,8 @@ export default function Home() {
             alt="Jason in the Mr. Rogers “I’m not very good at it” meme."
             layout="responsive"
             quality="75"
-            width="1394"
+            width="600"
+            height="600"
           />
         </p>
       </main>
