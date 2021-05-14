@@ -22,6 +22,14 @@ export default function Home() {
             width="600"
             height="600"
           />
+          <Image
+            src="/spongebob.gif"
+            alt="spongebob gif"
+            layout="responsive"
+            quality="75"
+            width="600"
+            height="600"
+          />
         </p>
       </main>
     </div>
